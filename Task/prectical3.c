@@ -1,3 +1,7 @@
+//division static
+
+
+
 #include<stdio.h>
 main()
 {

@@ -1,3 +1,7 @@
+//multipal static
+
+
+
 #include<stdio.h>
 main()
 {

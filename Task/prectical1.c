@@ -1,3 +1,5 @@
+//substitution static
+
 #include<stdio.h>
 main()
 {

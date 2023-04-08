@@ -1,3 +1,6 @@
+//addtion static
+
+
 #include<stdio.h>
 main()
 {

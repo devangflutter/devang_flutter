@@ -1,3 +1,6 @@
+//addtion dynamic
+
+
 #include<stdio.h>
 main()
 {

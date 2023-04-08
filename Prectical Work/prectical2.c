@@ -1,3 +1,6 @@
+   //information
+
+
 #include<stdio.h>
 main()
 {
